@@ -8,12 +8,16 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Lucas-Aguiar-dos-santos/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Lucas-Aguiar-dos-santos/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Angular",
